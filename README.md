@@ -1,5 +1,5 @@
-# amd-landing-page
-This is an AMD landing page with simple css and video.
+# amg-landing-page
+This is an AMG landing page with simple css and video.
 <br>
 This site is live at   https://justme-vivek.github.io/amd-landing-page/
 <br>
