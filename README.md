@@ -8,4 +8,5 @@ This site is live at
 https://justme-vivek.github.io/amg-landing-page/
 <br>
 <br>
-![image](https://github.com/justme-vivek/amd-landing-page/assets/147023192/9dd204e0-5348-4a83-8228-6083a28f503e)
+![image](https://github.com/user-attachments/assets/3ec96ff7-824b-4dbe-9f18-76c0fdf2024e)
+
